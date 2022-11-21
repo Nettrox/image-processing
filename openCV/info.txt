@@ -3,4 +3,4 @@ https://www.python.org/
 "windows+r"  ->  "cmd"  ->  "pip install opencv-python"
 "windows+r"  ->  "cmd"  ->  "pip install numpy"
 
-close all button "q"
+press "q" key to close all py files
